@@ -1,0 +1,33 @@
+*{
+margin: 50px;
+
+}
+body{
+font-family: fantasy;
+
+background-color: aqua;
+
+}
+h1{
+padding: 10px;
+border: 10px;
+border-style: double;
+color: blue;
+text-align: center;
+text-transform: uppercase;
+text-decoration: underline;
+border-color: rgb(226, 36, 36);
+
+
+
+}
+p{
+    color: blueviolet;
+    text-align: justify;
+    background-color: beige;
+    
+    
+}
+img{
+    width: 30%;
+}
